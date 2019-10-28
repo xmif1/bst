@@ -1,0 +1,3 @@
+/home/xandru/CLionProjects/bst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xandru/CLionProjects/bst/cmake-build-debug/CMakeFiles/tutorial3.dir
+/home/xandru/CLionProjects/bst/cmake-build-debug/CMakeFiles/edit_cache.dir
